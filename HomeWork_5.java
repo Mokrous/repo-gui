@@ -46,7 +46,7 @@ public class HomeWork_5 {
             this.age = age;
         }
 
-       
+
 
         public int getAge() {
             return age;
@@ -55,7 +55,7 @@ public class HomeWork_5 {
         @Override
         public String toString() {
             return (name +
-                    "\n| Position:" + position +
+                     "\n| Position:" + position +
                     "\n| Email:" + email +
                     "\n| Telephone:" + telephone +
                     "\n| Salary:" + salary +
