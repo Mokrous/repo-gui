@@ -1,7 +1,7 @@
 /**
  * Java 1 HomeWork_7
  * @author Mokrous Aleksei
- * version 06.01.2022
+ * version 06-07.01.2022
  */
 public class HomeWork_7 {
     public static void main(String[] args) {
